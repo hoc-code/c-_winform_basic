@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="quanlycosodulieu">
+  <DataContextMoniker Name="/quanlycosodulieuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="55fc708b-450c-4f15-8d68-9214ae56dadc" absoluteBounds="0.875, 3.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/quanlycosodulieuDataContext/tbl_lopquanly" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07aaa7dc-78ca-45f7-9500-a63044cc888e" absoluteBounds="0.89, 4.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c99ef72d-c945-4dad-9ebf-8cf6e3fe600f" absoluteBounds="0.875, 1.25, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/quanlycosodulieuDataContext/tbl_nhomquyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19dc7858-4799-4435-bfff-6f164b11186e" absoluteBounds="0.89, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f962a645-d02d-457b-949d-4026e7605ee5" absoluteBounds="3.625, 3.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/quanlycosodulieuDataContext/tbl_sinhvien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1d71004e-02f3-4ba8-839f-d70c98de006b" absoluteBounds="3.64, 3.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="293ac932-a090-4f0b-a15f-b641e8e8ce94" absoluteBounds="3.5, 1.25, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/quanlycosodulieuDataContext/tbl_taikhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1c5b33f5-4e00-4880-b4ce-adaab2e3ab78" absoluteBounds="3.515, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 4.56814697265625); (3.625 : 4.56814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/quanlycosodulieuDataContext/tbl_lopquanly/tbl_lopquanly_tbl_sinhvien" />
+      <nodes>
+        <classShapeMoniker Id="55fc708b-450c-4f15-8d68-9214ae56dadc" />
+        <classShapeMoniker Id="f962a645-d02d-457b-949d-4026e7605ee5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 1.94314697265625); (3.5 : 1.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/quanlycosodulieuDataContext/tbl_nhomquyen/tbl_nhomquyen_tbl_taikhoan" />
+      <nodes>
+        <classShapeMoniker Id="c99ef72d-c945-4dad-9ebf-8cf6e3fe600f" />
+        <classShapeMoniker Id="293ac932-a090-4f0b-a15f-b641e8e8ce94" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,13 @@
+C:\cshap\winform\de2_TranVanLong_0194866\bin\Debug\de2_TranVanLong_0194866.exe.config
+C:\cshap\winform\de2_TranVanLong_0194866\bin\Debug\de2_TranVanLong_0194866.exe
+C:\cshap\winform\de2_TranVanLong_0194866\bin\Debug\de2_TranVanLong_0194866.pdb
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong.csproj.AssemblyReference.cache
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong_0194866.FormLogin.resources
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong_0194866.quanlysinhvien.resources
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong_0194866.TranVanLong_0194866.resources
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong_0194866.Properties.Resources.resources
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong.csproj.GenerateResource.cache
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong.csproj.CoreCompileInputs.cache
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong_0194866.exe
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\de2_TranVanLong_0194866.pdb
+C:\cshap\winform\de2_TranVanLong_0194866\obj\Debug\thithunew.qlylopquanly.resources
